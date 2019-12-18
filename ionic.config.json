@@ -1,0 +1,7 @@
+{
+  "name": "testes-form-dynamic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
